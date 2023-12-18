@@ -1,4 +1,4 @@
-#Casino web scarper
+# Casino web scarper
 Gets data from casinos via web scraping. Casinos are gotten from casino aggregators<br> <br>
 The data gotten, if present:
 - Name
